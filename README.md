@@ -10,9 +10,9 @@ Built for learning purposes. Concept learned
 
 ## To use on your local system follow below instruction
 
-First, run the development server:
 
 ```bash
+npm install
 npm run dev
 
 ```
