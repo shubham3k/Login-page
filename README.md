@@ -1,10 +1,10 @@
 ## Its a website for simple user authentication like SIGNUP, LOGIN and User profile 
 
 Built for learning purposes. Concept learned
-1.CRUD operation on DataBase
-2.Schema designing in MongoDb
-3.Routing in NextJs
-4.Designing the form
+* CRUD operation on DataBase
+* Schema designing in MongoDb
+* Routing in NextJs
+* Designing the form
 
 
 
